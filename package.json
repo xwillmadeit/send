@@ -3,6 +3,7 @@
   "description": "Transfer static files",
   "repository": "koajs/send",
   "version": "4.0.0",
+  "main": "index.d.js",
   "keywords": [
     "koa",
     "file",
